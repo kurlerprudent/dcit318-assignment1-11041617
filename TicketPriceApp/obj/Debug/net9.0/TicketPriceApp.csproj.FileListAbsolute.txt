@@ -1,0 +1,15 @@
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\bin\Debug\net9.0\TicketPriceApp.exe
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\bin\Debug\net9.0\TicketPriceApp.deps.json
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\bin\Debug\net9.0\TicketPriceApp.runtimeconfig.json
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\bin\Debug\net9.0\TicketPriceApp.dll
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\bin\Debug\net9.0\TicketPriceApp.pdb
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\obj\Debug\net9.0\TicketPriceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\obj\Debug\net9.0\TicketPriceApp.AssemblyInfoInputs.cache
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\obj\Debug\net9.0\TicketPriceApp.AssemblyInfo.cs
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\obj\Debug\net9.0\TicketPriceApp.csproj.CoreCompileInputs.cache
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\obj\Debug\net9.0\TicketPriceApp.sourcelink.json
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\obj\Debug\net9.0\TicketPriceApp.dll
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\obj\Debug\net9.0\refint\TicketPriceApp.dll
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\obj\Debug\net9.0\TicketPriceApp.pdb
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\obj\Debug\net9.0\TicketPriceApp.genruntimeconfig.cache
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TicketPriceApp\obj\Debug\net9.0\ref\TicketPriceApp.dll

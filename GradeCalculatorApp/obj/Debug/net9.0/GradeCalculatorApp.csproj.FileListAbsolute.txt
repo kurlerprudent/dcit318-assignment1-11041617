@@ -1,0 +1,15 @@
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.exe
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.deps.json
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.runtimeconfig.json
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.dll
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.pdb
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.AssemblyInfo.cs
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.sourcelink.json
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.dll
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\obj\Debug\net9.0\refint\GradeCalculatorApp.dll
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.pdb
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.genruntimeconfig.cache
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\GradeCalculatorApp\obj\Debug\net9.0\ref\GradeCalculatorApp.dll
