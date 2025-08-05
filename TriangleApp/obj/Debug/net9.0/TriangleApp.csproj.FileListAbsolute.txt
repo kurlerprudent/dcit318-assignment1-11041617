@@ -1,0 +1,15 @@
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\bin\Debug\net9.0\TriangleApp.exe
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\bin\Debug\net9.0\TriangleApp.deps.json
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\bin\Debug\net9.0\TriangleApp.runtimeconfig.json
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\bin\Debug\net9.0\TriangleApp.dll
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\bin\Debug\net9.0\TriangleApp.pdb
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\obj\Debug\net9.0\TriangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\obj\Debug\net9.0\TriangleApp.AssemblyInfoInputs.cache
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\obj\Debug\net9.0\TriangleApp.AssemblyInfo.cs
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\obj\Debug\net9.0\TriangleApp.csproj.CoreCompileInputs.cache
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\obj\Debug\net9.0\TriangleApp.sourcelink.json
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\obj\Debug\net9.0\TriangleApp.dll
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\obj\Debug\net9.0\refint\TriangleApp.dll
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\obj\Debug\net9.0\TriangleApp.pdb
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\obj\Debug\net9.0\TriangleApp.genruntimeconfig.cache
+C:\Users\Obed Sarkodie\Desktop\Aca\lv-300\DCIT 318\dcit318-assignment1-11041617\TriangleApp\obj\Debug\net9.0\ref\TriangleApp.dll
